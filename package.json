@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "- Daniel  🔗 [mrdanp07](github.com/mrdanp07)\r - Janderson 🔗 [jarderson4lmeida](github.com/jarderson4lmeida)\r - Cesar 🔗[CesarMouraDev](github.com/CesarMouraDev)\r - Hermes 🔗 [HermesWebDeveloper](github.com/HermesWebDeveloper)\r - Caio  🔗 [caioviniciuus](github.com/caioviniciuus)",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.2",
@@ -22,5 +22,8 @@
     "postgres": "^3.4.4",
     "sequelize": "^6.37.3",
     "sqlite3": "^5.1.7"
+  },
+  "directories": {
+    "test": "tests"
   }
 }
